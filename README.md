@@ -1,14 +1,15 @@
 # QA-Technical-Task
 QA Technical Task
 
-- Se han usado las siguientes herramientas:
+- Se ha creado un repositorio en GitHub: QA-Technical-Task.
+
+- Se han usado las siguientes herramientas para el proyecto:
 
 > Node.js: Entorno en tiempo de ejecución multiplataforma, de código abierto, para la capa del servidor basado en el lenguaje de programación JavaScript, asíncrono, con E/S de datos en una arquitectura orientada a eventos y basado en el motor V8 de Google.
 
 > Mocha: Framework de pruebas de JavaScript que se ejecuta en Node.js.
 
 > Node-fetch: La API Fetch proporciona una interfaz JavaScript para acceder y manipular partes del canal HTTP, tales como peticiones y respuestas.
-
 
 
 - Inicialización del proyecto:
@@ -118,3 +119,6 @@ $ npm test
 
 
   - Se ha adjuntado al proyecto una carpeta con evidencias de las ejecuciones de las pruebas.
+  
+  
+  - Se ha relizado el commit con los archivos del proyecto y el push al repositorio.

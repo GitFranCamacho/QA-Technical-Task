@@ -1,0 +1,26 @@
+{
+  "name": "qa-technical-task",
+  "version": "1.0.0",
+  "description": "QA Technical Task",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./tests/test.js --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GitFranCamacho/QA-Technical-Task.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GitFranCamacho/QA-Technical-Task/issues"
+  },
+  "homepage": "https://github.com/GitFranCamacho/QA-Technical-Task#readme",
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {
+    "node-fetch": "^3.2.8"
+  }
+}
